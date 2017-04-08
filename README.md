@@ -1,3 +1,8 @@
+```
+curl -L https://raw.githubusercontent.com/yn/mac-dev-playbook/master/runme.sh | sh
+```
+
+
 # Mac Development Ansible Playbook
 
 [![Build Status](https://travis-ci.org/geerlingguy/mac-dev-playbook.svg?branch=master)](https://travis-ci.org/geerlingguy/mac-dev-playbook)
