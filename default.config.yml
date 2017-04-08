@@ -15,6 +15,9 @@ dotfiles_files:
   - .inputrc
   - .osx
   - .vimrc
+  # - .gitconfig
+  # - .gitignore_global
+  # - .ssh/config
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -67,8 +70,9 @@ homebrew_cask_apps:
   - vagrant
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
-mas_email: ""
+mas_installed_apps:
+  - { id: 413857545, name: "Divvy - Window Manager"}
+mas_email: "yuri.niyazov@gmail.com"
 mas_password: ""
 
 osx_script: "~/.osx --no-restart"
