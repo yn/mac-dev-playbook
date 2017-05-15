@@ -7,11 +7,12 @@ configure_osx: no
 
 dotfiles_repo: https://github.com/yn/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/code/mine/dotfiles
+dotfiles_repo_local_destination: ~/code/mine/dotfiles1
 dotfiles_files:
   - .gitconfig
   - .gitignore_global
   - .ssh/config
+dotfiles_home: ~/code/mine/dotfiles_home
 
 homebrew_installed_packages: []
   # # - ansible # Installed via Pip.
