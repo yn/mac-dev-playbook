@@ -2,6 +2,5 @@
 .DS_Store
 *.retry
 roles*
-config.yml
 *.sublime-project
 *.sublime-workspace

@@ -1,0 +1,15 @@
+dotfiles_files:
+  - .bash_profile
+  - .gitignore
+  - .inputrc
+  - .osx
+  - .vimrc
+  # - .gitconfig
+  # - .gitignore_global
+  # - .ssh/config
+
+mas_installed_apps:
+  - { id: 413857545, name: "Divvy - Window Manager"}
+mas_email: "yuri.niyazov@gmail.com"
+mas_password: ""
+mas_signin_dialog: yes
